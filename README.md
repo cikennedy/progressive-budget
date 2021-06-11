@@ -1,70 +1,65 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# Progressive Budget Tracker
+  ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+  ## Description
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+  An application that will allow the user to be able to add expenses and deposits to their budget with or without an internet connection. 
 
-Offline Functionality:
+  ## Table of Contents
 
-  * Enter deposits offline
+  * [Installation](#installation)
 
-  * Enter expenses offline
+  * [Usage](#usage)
 
-When brought back online:
+  * [Credits](#credits)
+  
+  * [License](#license)
 
-  * Offline entries should be added to tracker.
+  * [Badges](#badges)
 
-## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
+  * [Features](#features)
 
-## Business Context
+  * [Contribution](#contribution)
 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+  * [Tests](#tests)
 
+  * [Questions](#questions)
 
-## Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+  ## Installation
 
-- - -
+  For this project to run properly, install the necessary dependencies by using the following terminal command: npm i
 
-## Commit Early and Often
+  ## Usage
 
-* One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+  N/A
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+  ## Credits
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+  N/A
 
-* Follow these guidelines for committing:
+  ## License
 
-  * Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+  This project is licensed using the MIT license.
 
-  * Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+  ## Badges
 
-  * Don't commit half done work, for the sake of your collaborators (and your future self!)
+  ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-  * Test your application before you commit to ensure functionality at every step in the development process
+  ## Features
 
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+  N/A
 
-* Deploy your application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
+  ## Contribution
 
-## Submission on BCS
+  N/A
 
-* You are required to submit the following:
+  ## Tests
 
-  * the URL to the deployed application
+  N/A
 
-  * the URL to the Github repository
+  ## Questions
 
-- - -
+  If you have any questions or feedback about the project, please contact me by email at [kennedy.christopherian@gmail.com](mailto:kennedy.christopherian@gmail.com). 
 
-## Hint
+  Other projects and work are featured at [cikennedy](https://github.com/cikennedy).
 
-* In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
-
-* Use [Google](https://www.google.com) or another search engine to research this topic.
