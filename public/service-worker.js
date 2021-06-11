@@ -30,6 +30,7 @@ self.addEventListener("install", function (evt) {
     self.skipWaiting();
   });
   
+  // NOTE: FIX BELOW CODE TO BE APPLICABLE TO THE APPLICATION AT HAND
   // activate
   self.addEventListener("activate", function(evt) {
     evt.waitUntil(

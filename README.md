@@ -10,18 +10,10 @@
   * [Installation](#installation)
 
   * [Usage](#usage)
-
-  * [Credits](#credits)
   
   * [License](#license)
 
   * [Badges](#badges)
-
-  * [Features](#features)
-
-  * [Contribution](#contribution)
-
-  * [Tests](#tests)
 
   * [Questions](#questions)
 
@@ -31,11 +23,8 @@
 
   ## Usage
 
-  N/A
-
-  ## Credits
-
-  N/A
+  [Deployed Application](https://rocky-bayou-75944.herokuapp.com/)
+  [GitHub Repository](https://github.com/cikennedy/progressive-budget)
 
   ## License
 
@@ -44,18 +33,6 @@
   ## Badges
 
   ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
-
-  ## Features
-
-  N/A
-
-  ## Contribution
-
-  N/A
-
-  ## Tests
-
-  N/A
 
   ## Questions
 
